@@ -1,0 +1,26 @@
+Q:1 
+ans:
+     LXI H,5000
+     LXI D ,6000
+     MVI C ,05
+LOOP: MOV A,M
+     STAX D
+     INX H
+     INX D
+     DCR C
+     JNZ LOOP
+     HLT
+
+Q:2
+ANS: LXI H,5000
+     MVI B,0A
+     LXI D,6000
+LOOP:MOV A,M
+     RAR
+     JC ODD
+     STAX D
+     INX D
+ ODD:INX H
+     DCR B
+     JNZ LOOP
+     HLT

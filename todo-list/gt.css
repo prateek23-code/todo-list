@@ -1,0 +1,35 @@
+.raw {
+	border: 3px solid black ;
+	margin-left: 30px;
+	width: 50vw;
+	margin-left: 20%;
+	margin-top: 10%;
+
+}
+.raw h1 {
+	text-align: center;
+}
+#ear {
+	border:3px solid black;
+	display: flex;
+	justify-content: space-around;
+	top: 30px;
+}
+#bl {
+	border: 3px solid transparent;
+	padding: 10px 10px 10px 10px ;
+	background-color: blue ;
+}
+#rl {
+	border: 3px solid transparent;
+	padding: 10px 10px 10px 10px ;
+	background-color: red;
+}
+#display{
+	border: 3px solid transparent;
+	padding: 10px 10px 10px 10px ;
+	
+}
+button {
+	padding: 10px 10px 10px 10px ;
+}

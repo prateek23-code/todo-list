@@ -1,0 +1,48 @@
+.raw {
+	border: 2px solid  black;
+	width: 40vw;
+	position: relative;
+	top:50%;
+	left: 30%;
+	margin-top: 40px;
+
+}
+.raw h1{
+	text-align: center;
+}
+.we{
+	border: 1px solid black ;
+	display: flex;
+	justify-content: space-around;
+	position: relative;
+	
+}
+.red{
+	border: 2px solid black ;
+	width: 7vw;
+
+	padding: 10px 10px 10px 10px;
+	
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+.tg {
+	background-color: blue;
+	color: red;
+
+}
+.bo{
+	background-color: orange;
+	color: blue;
+}
+ button:hover {
+	cursor: pointer;
+}
+#bg {
+	margin-left: 39px;
+	text-align: center;
+}
+
+

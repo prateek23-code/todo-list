@@ -1,0 +1,47 @@
+.raw {
+	border: 3px solid black;
+	text-align: center;
+	width: 45vw;
+	margin-left: 30%;
+	margin-top: 10%;
+	padding: 10px 10px 10px 10px ;
+
+}
+select {
+	border: 3px solid red;
+}
+.wo{
+	border: 3px solid black;
+	display: flex;
+	justify-content: space-around;
+	padding: 10px 10px 10px 10px ;
+}
+button {
+	color: orange;
+	border: 2px solid transparent;
+}
+#a{
+	background-color: green;
+	padding: 10px 10px 10px 10px;
+	border-radius: 3px;
+
+}
+#b{
+	background-color: red;
+	padding: 10px 10px 10px 10px;
+	border-radius: 3px;
+	
+
+}
+#c {
+	background-color: blue;
+	padding: 10px 10px 10px 10px;
+	border-radius: 3px;
+
+}
+#d {
+	background-color: yellow;
+	padding: 10px 10px 10px 10px;
+	border-radius: 3px;
+
+}
